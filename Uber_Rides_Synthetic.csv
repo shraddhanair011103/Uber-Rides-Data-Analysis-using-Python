@@ -1,0 +1,501 @@
+Ride_ID,Timestamp,Pickup_Location,Dropoff_Location,Distance_km,Fare,Ride_Type,Passenger_Count,Payment_Method
+a18e67f4-1988-4364-b968-88cf037cfda4,2025-04-02 10:05:53,South Antonio,New Shelby,18.82,89.99,UberBlack,3,Cash
+6fa2a300-3a30-4438-98d9-a7d4ae3c6f13,2025-03-15 07:54:31,North Jared,North Alexandra,23.21,58.17,UberXL,1,PayPal
+05b458f0-8432-4165-9162-fd07235b205c,2025-01-27 09:39:34,North David,Mccallport,2.54,75.46,UberComfort,4,Cash
+a64c6505-a2d6-46e9-b21d-c2dfdbfc9dcf,2025-01-01 14:18:32,Stephaniemouth,Port Johntown,7.17,87.12,UberX,4,PayPal
+84ca0aad-c9bb-4696-a82d-73fff98a89bc,2025-03-26 10:21:11,West Dawnton,West Kristybury,18.89,30.37,UberBlack,4,Credit Card
+7cacf308-2b80-4b99-a549-9da2574537fc,2025-03-18 13:45:38,South Anthonyburgh,Juanhaven,22.35,98.79,UberComfort,3,PayPal
+ba7965bb-312b-4eaa-98cc-02ea36490166,2025-01-16 19:41:27,Kellyberg,Steventown,14.87,47.11,UberBlack,4,PayPal
+b387419a-2108-4695-b32a-cc36338c0b6f,2025-03-16 11:42:10,Benjaminchester,Stephaniemouth,8.69,5.15,UberComfort,4,PayPal
+a77e101d-bd2d-4cb5-a043-0dc21425f85f,2025-01-06 20:20:33,West Shannonfurt,East Tamara,24.27,78.38,UberXL,4,Credit Card
+07d02270-3d29-45e8-b39d-27cbc87f070b,2025-02-01 13:13:30,Harperton,West Andrew,11.81,23.74,UberBlack,1,Cash
+86b1d39d-db64-40a5-bfa8-050359ab0d4f,2025-02-27 21:04:07,Millerton,Millerview,5.87,13.67,UberXL,3,Cash
+8eaaf02e-9fca-40b7-a398-9900d928bbb9,2025-01-23 18:39:24,Port Eric,Port Jessicamouth,23.59,8.89,UberX,3,PayPal
+4ea71236-8aee-40b2-aaff-2d0372d989a7,2025-03-22 11:28:06,Stewarttown,Grossville,24.27,48.03,UberPool,1,Cash
+fd6451d3-20c9-4e78-8929-e5b178094fb6,2025-02-01 17:50:34,Duffybury,Lake Justin,8.44,5.92,UberPool,4,Credit Card
+4e8288d9-0cee-4e03-88aa-46ae47b856e7,2025-01-08 06:51:51,New Jamesborough,East Elizabeth,27.98,9.16,UberComfort,3,Credit Card
+a520588e-2e6d-4309-a380-0bd762cce1c4,2025-01-12 16:26:34,Lake Annetteville,Jimmyfort,3.08,27.06,UberXL,2,Credit Card
+0ba62a33-adfa-45bb-9cb8-e94039d85a7b,2025-03-15 08:08:35,Bradfordburgh,North Karla,7.61,14.18,UberX,1,Credit Card
+c863960a-54cd-4ead-b435-6d23e9b55b1f,2025-01-11 19:41:34,Transtad,Rebeccafurt,5.72,36.8,UberX,1,PayPal
+f3c16d78-9802-4ac0-882f-f6ff35f177f3,2025-02-22 00:46:56,South Elizabeth,Smithview,13.6,37.25,UberX,3,Cash
+41c932da-a197-422d-b0cf-91232c035a55,2025-01-01 10:48:06,Port Tonyland,Ruizland,26.31,21.06,UberPool,3,PayPal
+75aefff2-47ca-4a30-abb3-0e5bff9c6244,2025-02-18 04:57:30,East Tiffany,Gavinmouth,15.3,54.49,UberX,1,PayPal
+244af584-ca41-4057-84e8-1fb74fe11fb9,2025-01-02 18:26:32,Reynoldsburgh,Jamesborough,26.41,37.54,UberComfort,3,Credit Card
+b6ec43df-8362-4d22-bcf9-5ddf1b278847,2025-01-15 17:45:08,Cruzport,Olsonland,21.18,25.85,UberComfort,4,Cash
+6a25217b-099f-4889-a9ff-748e4206d088,2025-01-06 00:54:18,Brownfort,New Michaelshire,18.38,6.89,UberBlack,4,PayPal
+0b644a31-2086-45b0-83f8-6a15c1460428,2025-03-15 05:21:24,New Thomas,Lake Willieton,12.37,7.99,UberComfort,4,Cash
+3890a8d8-eb54-450c-a296-52729f2d330a,2025-03-16 02:01:13,South Ricardohaven,Tiffanyside,23.37,84.47,UberX,1,Credit Card
+5f87a36e-94a1-478c-b49a-05aa9365bb17,2025-02-01 21:23:30,New Nancyfort,Port Chad,11.42,28.08,UberPool,1,PayPal
+9ba85f00-76c2-4f2f-b2a7-454d113902ee,2025-02-04 10:46:30,Darrellport,Andersonburgh,10.49,62.96,UberBlack,3,PayPal
+acfe07b7-f8ea-46d5-b8d7-3718289184ca,2025-01-25 06:59:57,Maureenton,South Davidview,16.26,64.35,UberPool,1,Cash
+341c50a8-617c-4539-9b43-91f880f73751,2025-03-27 05:55:50,West Brandon,West Jonathan,17.43,38.02,UberPool,1,Credit Card
+86a1b7f9-404d-4199-ad71-a4040278d734,2025-03-02 14:47:05,Lake Nicole,Johnshire,21.63,20.71,UberComfort,1,Cash
+1ebbe7f7-6154-4c8b-bd12-fa2a68eb217f,2025-03-08 04:02:34,Foxport,Salasfort,14.49,14.77,UberComfort,2,Credit Card
+c9847f56-707d-448a-b92a-f5f6c4410b8c,2025-01-07 14:21:48,Lake Russellstad,East Michelle,13.87,92.55,UberComfort,2,PayPal
+d99aae29-effc-46f4-8ecd-95be4979e00d,2025-01-10 11:52:04,Sullivanfurt,Danielsland,20.69,24.9,UberComfort,4,PayPal
+11e452ad-bee0-4e3e-a07a-ffa825f83908,2025-04-01 23:07:51,Lake Richardburgh,Turnerton,7.72,70.1,UberBlack,1,Credit Card
+3c602f94-00db-4351-b058-3826e1706d29,2025-03-09 14:36:24,North Troyberg,Kristenhaven,19.64,51.03,UberX,1,Credit Card
+81873aaf-29a5-4c19-a181-164b62dd057a,2025-04-03 11:37:46,Ritterburgh,North Hector,22.39,70.43,UberBlack,4,Credit Card
+c9f87167-ed55-47ed-bec4-a7de01c30555,2025-01-03 09:57:15,Garcialand,North Heidi,6.15,35.22,UberXL,3,Credit Card
+b14c00b6-861f-4bca-9901-76c309ed7c6c,2025-03-07 23:21:25,Lake Jamesfurt,Port Scott,6.85,76.91,UberComfort,3,PayPal
+36aa1e72-c757-463d-91ac-765bbf3cd3ea,2025-02-11 03:35:38,Robinsonbury,Davismouth,11.63,81.63,UberXL,4,Cash
+45995885-daca-4ba0-ae1f-92aef5722af3,2025-03-12 19:02:27,North Tyrone,Weeksville,15.25,5.52,UberBlack,2,Credit Card
+2f710dd1-e997-4442-987e-d5f198e951a5,2025-01-19 20:42:32,Walkerview,New Linda,20.41,53.94,UberComfort,4,Cash
+1577daf6-9d9f-47f5-8d25-4127bdf796f2,2025-01-19 15:22:10,Janicehaven,New Brianna,12.81,19.05,UberXL,2,Cash
+d2ffdac4-da50-4e73-a8cb-55501c55689b,2025-01-16 07:52:28,Claudiahaven,South Joel,7.71,76.75,UberPool,1,PayPal
+3396c9b2-b26d-4914-a15a-3266e694fba5,2025-01-08 05:53:31,West Robert,Kennedychester,4.64,24.01,UberPool,4,PayPal
+ccd2f9c1-71a2-4f68-ba94-0ca104bf77f5,2025-02-10 14:00:39,Nancymouth,Lake Pamela,14.11,54.99,UberXL,1,PayPal
+0f839699-a73d-4238-8b9f-0669408490ab,2025-03-20 21:03:06,North Todd,New Carrieberg,6.98,76.91,UberXL,2,PayPal
+1dd4b3b3-87c3-44aa-8e8f-7254e7f937d5,2025-01-21 11:53:37,Smithport,Amandaville,25.96,17.45,UberBlack,4,PayPal
+a09575a2-b82e-40b3-b138-57cf1c542be4,2025-03-31 14:46:29,Davidborough,Port Jennifermouth,9.99,70.36,UberBlack,2,PayPal
+f3319fc8-80fa-4df6-a8e6-2e8d18f442de,2025-02-04 18:50:04,West Mitchell,Port Anaborough,18.98,6.07,UberComfort,2,Credit Card
+67aaa58d-00f4-44cc-a6c6-e0ef0f7afda2,2025-03-27 07:13:46,Gailburgh,New Connie,11.58,37.5,UberXL,3,Credit Card
+43038d70-46dc-4357-8d1d-d81b735a8e17,2025-03-29 19:21:59,Bowenstad,West Joshuashire,9.36,20.88,UberX,4,Cash
+3d71aedd-6d43-4b6d-a224-720041ca3844,2025-02-14 19:52:19,Port Katherineborough,Jordanville,23.56,33.34,UberX,3,PayPal
+74428069-c7b7-4015-b5a0-eeae57130be2,2025-01-26 17:44:33,Mitchellville,Devinchester,22.96,46.52,UberComfort,3,PayPal
+adf60d0b-e071-4e8c-8c54-812aeab9dd09,2025-02-28 13:00:47,West Michaela,East Manuelport,19.29,86.86,UberXL,1,PayPal
+d02c1620-79e4-4a85-9b90-6e4151d655a6,2025-01-07 08:41:29,East Jerry,Port Nicole,1.54,31.0,UberComfort,4,Cash
+f90e5722-7d75-41b2-9c0c-eb6fad12d593,2025-03-08 18:48:19,East Coreyton,New Douglas,5.56,65.89,UberComfort,3,Credit Card
+d650e827-97d4-4264-b895-9e2911b08545,2025-03-29 02:32:14,Jeffreychester,North Kathleentown,27.99,67.3,UberXL,3,Credit Card
+80de4f9a-8716-4f00-9e4f-75dd7ada1f3f,2025-02-18 11:19:09,Taylorburgh,New Laurie,9.96,59.43,UberComfort,3,PayPal
+3430f2ae-2739-4739-b6d1-55b3fd55e791,2025-03-14 23:34:32,Houstonton,Michelleborough,2.47,93.91,UberXL,3,Credit Card
+2e62c4a3-11ab-4235-9d45-2144fa9893cd,2025-01-02 14:22:53,South Taraview,Kiaratown,19.52,93.63,UberComfort,2,Credit Card
+237c730f-965b-4cce-b03f-1a281a6cc90c,2025-01-15 18:54:57,Donnaside,Samanthaland,19.89,29.78,UberX,3,Cash
+3e12cea7-800b-4af7-9b3d-ccc409a7d8fe,2025-03-11 07:47:24,East James,West Justinside,24.42,18.89,UberBlack,1,Cash
+b42ad036-b679-4a50-ae1f-7a417c22006c,2025-03-03 22:59:48,Lake Elainestad,Jamesburgh,27.99,42.49,UberXL,2,PayPal
+6cb3e7dd-91d7-4453-b722-38f7c8802343,2025-03-17 14:50:52,West Paul,Andrewchester,14.13,77.34,UberX,3,Cash
+678b12c2-67f8-4a38-89b2-5bf7ca2cd254,2025-03-27 00:37:23,Jeremyside,Nelsonville,20.06,80.8,UberBlack,2,Credit Card
+d03c7632-be8d-4da0-83f5-2080e1fd42cc,2025-01-21 09:18:41,Staceyton,Conleyhaven,25.01,45.14,UberBlack,2,Cash
+61325c04-f18c-47fa-83fb-0d6e92ef1b56,2025-03-10 21:28:15,Lake Micheleview,Lynnton,6.63,66.68,UberX,3,Cash
+b564454a-2823-4299-8806-31dfbd7528b6,2025-02-04 13:30:50,Craigland,Mccannchester,27.54,64.23,UberX,4,Cash
+7d3bb817-94df-47f2-b641-d61c21af6123,2025-02-16 03:26:14,South Brian,Josehaven,26.02,78.45,UberComfort,1,Credit Card
+8651f5bb-e82f-4a8b-ad13-46f04fea66ab,2025-01-28 19:00:30,Collierport,Mistyborough,3.41,17.4,UberX,2,Credit Card
+be16d126-337e-4756-afe5-7c051e63967d,2025-03-09 00:06:54,New Kathleenfort,Port Jessicaside,4.31,87.06,UberBlack,1,Credit Card
+9d60304f-ed88-421f-b766-ec6ec68a856f,2025-03-13 23:10:04,South Erin,South Brian,21.97,7.44,UberXL,1,Cash
+135fd66d-26fb-4529-b2bf-10cf2ef9f566,2025-02-13 19:37:08,South Marisaland,Kennedyshire,2.05,79.4,UberX,2,Credit Card
+0a69eff2-d615-4128-a606-31c3d2957bb1,2025-03-11 15:14:53,Amyhaven,South Laurenland,14.87,84.15,UberXL,2,PayPal
+2028a298-2ea8-4d5c-ab6f-780467503513,2025-01-29 12:00:29,Reedland,Gutierrezport,16.86,52.62,UberX,3,PayPal
+9158f330-4299-48d2-8bbc-265d47c8094b,2025-03-02 10:53:32,New Lisachester,West Alexander,14.24,82.16,UberBlack,4,Cash
+12fc33aa-8787-4d00-81f4-0bd8a46a2449,2025-03-05 09:09:54,Bryantmouth,Paulville,14.0,56.8,UberPool,2,Cash
+e8fd9d41-6a4c-45ab-b902-8012de3d6963,2025-03-28 03:40:10,Heatherstad,North Rachel,14.52,19.45,UberComfort,4,PayPal
+019cbacb-6a7d-4870-93c6-41d347ef6707,2025-01-26 22:18:26,Port Rebeccaview,Port John,24.04,59.74,UberPool,3,PayPal
+6bbe70ea-c50e-43c0-93f5-3d3462e244e7,2025-01-18 08:00:34,Ryanfurt,East Vincent,2.69,70.15,UberXL,3,PayPal
+5aee2f32-201c-4cd8-b39c-9c8442bcdcfd,2025-02-27 10:20:23,Port Andrewbury,Port Kellyland,16.21,96.74,UberBlack,1,PayPal
+027dc568-9a54-42ac-af19-7b07e65670d7,2025-01-15 10:13:14,Bonillachester,Ianville,27.67,25.81,UberPool,2,Cash
+1545363c-a6cd-44e4-ad4b-1f6a97ce249f,2025-02-23 18:06:05,Ethanfurt,Millerfort,25.05,81.6,UberBlack,4,PayPal
+900eb8cf-25ad-4571-b60e-86a19866b270,2025-04-01 17:31:11,Drakeside,East Andrew,12.81,17.98,UberXL,2,PayPal
+d45c0657-650a-4758-a605-36c47e6a829e,2025-02-19 19:02:54,Jennifertown,North Brandon,23.66,73.46,UberComfort,2,Cash
+53afee9e-0602-4f57-a60f-7c2981e2d081,2025-02-19 20:19:15,Taylorview,South Meganside,9.3,27.49,UberXL,1,PayPal
+474481d1-68d8-49ff-a3d4-bfd8efcf4233,2025-04-01 08:57:25,Montgomeryton,West Jennifer,4.44,48.98,UberPool,1,PayPal
+ec22da04-0531-4d12-84c2-bbe806a967f9,2025-01-19 21:12:43,North Kimberlyshire,West Anaton,4.37,48.87,UberXL,2,Cash
+30004198-5ff4-4783-86d8-ee5492b15d5d,2025-04-03 12:58:54,Port Kevin,Williammouth,11.21,6.38,UberComfort,4,Credit Card
+6eec9233-a1bf-43b7-b671-5784e1a47718,2025-02-11 04:18:06,Kingfort,Hudsonville,18.56,43.42,UberComfort,4,PayPal
+f4f3192e-b2c8-4ba9-9feb-ee76daa21252,2025-01-29 07:07:39,Port Nicoleport,Hawkinshaven,16.11,84.01,UberBlack,4,Credit Card
+f36bfd40-ba2d-4680-856d-fcd11275b05d,2025-02-05 23:07:09,Castroview,Owensstad,27.19,95.48,UberX,4,Credit Card
+b1b524c0-3032-4144-b244-0ba78a0f0bea,2025-01-11 07:09:59,North Robertberg,Port Donnaton,10.6,25.11,UberBlack,4,Cash
+f5abfa13-9787-4096-99cf-775ba99ff2f6,2025-03-14 10:45:09,Anneborough,Holmeschester,20.0,50.74,UberComfort,3,PayPal
+62b2d915-18f1-485c-ae11-847e6fadfa7a,2025-02-21 13:17:48,Grahambury,West Sethmouth,18.01,31.78,UberBlack,2,Credit Card
+082e3161-4eec-4e7c-b958-8fdb73260a99,2025-03-18 10:52:08,Franklinchester,Port Anthony,11.54,87.5,UberXL,3,Cash
+55b1c44f-cf1a-4928-98d5-2f93fb4435b0,2025-01-01 21:26:15,South Raymond,Port Toddchester,15.41,17.35,UberPool,1,Cash
+85b7bc36-4ad3-4778-b659-096a376de397,2025-02-22 12:05:08,New Maxwell,Mccormickberg,8.68,27.6,UberXL,2,Credit Card
+1ce3df71-1234-4d3d-8686-0013cea0f3da,2025-03-12 08:52:14,New Kelly,Bryanmouth,13.12,11.54,UberX,4,Credit Card
+59ca61f5-481e-4570-95eb-c5e97ba5b55a,2025-01-16 13:30:12,Robertburgh,Donaldhaven,17.33,26.4,UberXL,3,PayPal
+c7a83c06-9a8f-4878-8db8-d7099d314227,2025-02-26 14:58:36,Meghanchester,Patrickton,18.42,28.55,UberPool,4,Credit Card
+84c95188-f0c8-43df-b9e0-eb9bdf8eede5,2025-02-23 20:42:11,Port Laura,South Michael,6.68,36.56,UberBlack,4,Cash
+fc33e518-6119-4511-a708-5a0ca4480af5,2025-02-13 17:52:41,South Jennifer,West Jamesport,17.28,76.52,UberComfort,2,PayPal
+a427244e-fb27-4354-aee8-425ca7b70d7a,2025-01-19 10:01:01,Geraldport,Boyleland,21.37,71.78,UberXL,4,Cash
+297a77fa-e361-4681-9865-0e9c3d589310,2025-03-28 14:23:51,South Anthony,East Jennifer,24.08,97.47,UberBlack,1,Credit Card
+ee1601fc-44a8-4ce0-93ef-5c423e564b6b,2025-02-11 17:19:02,East Elizabeth,East Stevenburgh,8.4,20.59,UberX,1,Cash
+9893cf8e-e44c-4f91-b098-a3847124047f,2025-02-27 18:46:24,Marisafurt,Johnview,10.92,79.8,UberComfort,3,Credit Card
+ddcd5114-2830-4403-81fb-9efc00cd478b,2025-02-21 15:22:55,South Lisa,North Paulmouth,10.34,51.18,UberComfort,1,Cash
+4c23d7c3-5ce5-4c9d-a190-2066f945bc60,2025-03-19 22:16:08,North Bryan,New Heidiburgh,20.03,79.69,UberComfort,2,PayPal
+3600f45f-9864-4d3e-9c43-2c140d84639d,2025-03-26 09:13:35,Carolynmouth,Youngstad,13.7,72.12,UberX,2,PayPal
+701d5664-f206-4bbc-9796-e677365b0e8c,2025-03-16 17:02:08,Kevinhaven,Darrylshire,17.69,45.84,UberComfort,1,Credit Card
+3c358c02-8eae-467a-9155-9258ee49ac03,2025-01-30 18:51:25,Morenoberg,Johnview,21.43,8.05,UberBlack,1,PayPal
+177ec033-6ab1-4680-8116-b3e6d796fee6,2025-02-27 21:32:11,Lake Mary,Port Jessefort,12.77,53.0,UberX,4,PayPal
+1904c82a-d2ad-43fb-9f85-3f287d7611b1,2025-01-17 19:48:48,Lake Carl,New Laura,29.86,37.18,UberPool,3,Credit Card
+0826a770-5779-4817-ade5-d827377a8a4d,2025-02-06 14:59:31,Port Jacobberg,Copelandfort,12.67,7.03,UberX,1,Credit Card
+2d341489-cb42-4465-a0d9-4b995a30e6a6,2025-01-15 02:35:06,South Kimberly,South Donna,26.68,99.14,UberComfort,2,Credit Card
+4fd72d35-2054-4dd3-ad99-5e5c7f181dd1,2025-01-03 01:51:14,Carrieland,Rangelview,17.54,58.02,UberPool,1,Credit Card
+726474bb-8839-4e7f-81bc-5c5d01ffc1de,2025-02-17 20:53:44,North Jeffery,Rayside,3.56,8.41,UberComfort,3,PayPal
+f15ccc3d-a43d-4c83-897b-bcd6a22413ad,2025-03-11 07:22:34,Lake Micheletown,Silvafort,2.89,87.1,UberX,2,Credit Card
+545491b8-a99d-49f3-a7d8-eac662c2f0d6,2025-03-17 18:34:09,Nancyland,Turnermouth,5.87,20.21,UberX,2,Cash
+1aeb8904-4314-492d-a252-2b3f6bc5c865,2025-03-27 15:29:03,South Marktown,Jennifershire,29.64,37.26,UberComfort,1,PayPal
+7768cb9c-f30a-4002-b078-8e4e15d85f36,2025-01-19 14:35:27,North Christystad,West Maria,23.93,39.6,UberBlack,4,Cash
+32b7b347-4c45-481c-b716-b42f7ad77bd3,2025-03-09 23:50:25,South Brandyport,East Laurenshire,4.69,86.43,UberComfort,4,PayPal
+f8ebf054-d437-47bd-be24-a9e539dcda38,2025-02-26 08:31:32,Ambertown,East Debbieland,21.27,99.78,UberX,3,Credit Card
+c25c6e77-026f-4f93-aac2-dd3b05c6a6ff,2025-03-24 11:54:08,Davidbury,Lake Cynthia,17.67,78.31,UberXL,2,PayPal
+c4951ee6-5799-4750-b179-f774b7b6223f,2025-02-27 13:14:12,Wheelermouth,Robertville,13.74,61.78,UberXL,1,Cash
+29b41bc2-b960-4065-801f-79e0b8d808fe,2025-03-02 22:40:02,Carlsonberg,Port James,28.0,79.44,UberPool,3,Credit Card
+faef0d42-e340-4c7a-a1fa-cdaad3901de9,2025-01-14 17:16:59,Markborough,West Carlmouth,28.44,99.11,UberPool,3,Cash
+c8e07043-dfef-4379-9e5b-c7f019a0943c,2025-02-16 15:08:43,New Richard,New Kaylachester,7.87,30.77,UberX,1,PayPal
+cdb1b669-8ac5-4ec6-a16a-ea7139c8e178,2025-02-26 15:40:16,Port Nicholaston,Lewismouth,20.72,76.82,UberXL,3,PayPal
+14f8cd69-da42-4079-87a6-f4cbd7bf466f,2025-03-18 15:16:46,New James,North Dawnton,6.83,80.7,UberPool,4,Credit Card
+435dbfc3-d0a4-413e-b06f-4b25a2324678,2025-03-26 13:48:45,Charlesshire,Ericborough,19.84,27.1,UberPool,2,Credit Card
+65a59c54-2c32-4c40-86a5-9cf101970bb1,2025-01-30 07:12:12,Christyton,Blairmouth,18.91,71.57,UberPool,4,Credit Card
+b478f6d7-3588-4c15-a612-e32ff0f0b4ca,2025-02-25 09:09:35,North Stephanieville,Laurahaven,26.96,29.47,UberX,1,Cash
+5c7c5503-5720-4de7-a4b9-91a1184c4887,2025-02-02 23:33:34,Lake Thomasstad,South Leonfort,7.9,16.5,UberPool,4,PayPal
+45e02345-cfd8-472e-9c50-d5769357a0c0,2025-03-02 20:24:12,Seanville,North Leah,21.0,70.75,UberXL,4,Credit Card
+efd845dd-3277-4a21-bb1b-c5640fd22623,2025-01-02 02:05:25,South Annettehaven,Judyside,27.86,48.76,UberPool,4,Credit Card
+fbea5b8c-c7ae-4b58-b5ea-888d21209521,2025-03-03 16:24:17,South Johnny,Port Monicaberg,23.95,55.03,UberX,3,Credit Card
+7c985462-7fd8-4acc-8577-2e567d8d78b4,2025-03-31 01:33:15,Robinsonfurt,Jimfort,5.92,83.12,UberBlack,1,Credit Card
+8b2be6e1-a78d-4ace-ba87-d9044d8755c3,2025-03-13 21:50:10,Butlerchester,Rodriguezfort,4.43,52.49,UberPool,1,Credit Card
+afc7d693-e04c-4019-9e4a-b10199a5d760,2025-02-11 11:04:45,South Joseph,Erinfort,23.54,39.22,UberPool,4,PayPal
+42ff5c6d-bb96-4edd-bf57-75d1c7e264b7,2025-02-02 03:53:57,South Richardport,Lake Lisa,1.01,6.84,UberXL,4,Cash
+7572386d-b550-4321-b48f-6b5698867612,2025-01-10 20:46:56,Greenburgh,Port Devonland,12.84,17.56,UberPool,1,PayPal
+bd869a21-967b-4907-ba94-74c9864f7edc,2025-02-10 06:18:09,Gomezborough,New Steven,5.78,63.56,UberBlack,4,Cash
+da174437-e999-4124-9281-977ea701cf40,2025-03-11 08:19:54,Matthewshire,East Sheila,12.35,39.35,UberX,1,Cash
+eed1a80a-1bfb-450a-891c-fbad6ba9c76e,2025-02-16 07:24:10,Erinshire,New Barbara,20.51,87.51,UberComfort,3,Cash
+b16c662f-904e-47cf-9bf6-9bbe69cafd6e,2025-02-03 10:02:31,Marvinborough,Matthewborough,21.18,48.05,UberPool,4,Credit Card
+31c49b1a-675a-47ad-87ea-d53a2a21bc8d,2025-01-03 06:03:52,Tylerview,Lake Bethany,24.42,62.12,UberX,2,Credit Card
+801a70fb-7b8c-4d06-b436-a9ac87691afa,2025-02-19 09:26:42,Sharpbury,South Elizabeth,7.42,39.26,UberX,3,Credit Card
+f99dcf89-dce5-4f54-8e5b-2c2630b1315c,2025-03-02 06:20:53,East Travisfurt,West Michaelside,1.47,41.77,UberXL,2,Cash
+8a64f69a-d9ca-47ea-84d8-ec2e2fec6a3a,2025-02-12 07:45:32,East Joelhaven,New Judyberg,24.11,7.38,UberXL,3,Credit Card
+3bb83e20-7302-41df-ae3a-55736e5948b1,2025-02-16 12:59:42,Port Martinchester,Henrybury,9.9,54.68,UberComfort,3,Cash
+7b0f44c7-cd10-4be6-ab64-28d278aca34a,2025-03-13 03:41:28,Port Elizabeth,Smithview,25.35,54.01,UberComfort,2,Cash
+b434ac06-7998-4a02-a230-ace7352d911c,2025-02-03 08:27:44,West Carlosland,Caseyborough,14.14,47.26,UberXL,3,PayPal
+10ef137d-5104-4b0a-8117-f88ab9511703,2025-03-19 18:06:31,Martinstad,North Amandahaven,12.36,31.79,UberComfort,1,Credit Card
+56016c34-564c-4a98-a489-e391caa0a859,2025-02-20 14:58:17,New Jonfort,Russellside,19.28,45.62,UberX,2,PayPal
+3cf90bd9-7a81-4d53-9a09-11afb5d76597,2025-02-12 14:45:04,Juliechester,Port Seanport,10.99,45.11,UberBlack,2,Credit Card
+4856d18b-9ad2-479f-a3b9-7308d7713d9d,2025-01-20 03:36:38,New Shannonborough,East Elizabethview,16.69,9.18,UberPool,2,Cash
+d1cfecb2-f91f-487f-bc2c-8ac8ad47e0d7,2025-02-07 07:25:27,Reyesfort,Clarkeberg,18.74,50.45,UberX,1,Cash
+d20ca842-d6b9-4fb5-a4e7-9f5bf139b67a,2025-01-24 15:02:27,East Jamieport,Hodgemouth,5.94,70.65,UberX,2,Credit Card
+17dcf782-4213-4312-b96c-2a73f0588388,2025-03-17 18:32:41,Alvarezton,Jonesberg,29.52,12.94,UberBlack,4,PayPal
+6f3ee8be-afd2-4fcb-9ffb-dd9eeeb0c04c,2025-02-01 18:50:19,New Richardland,Walkerbury,12.01,20.0,UberComfort,3,Credit Card
+f5de5b23-4613-4180-a9e4-98519968ded4,2025-01-20 17:26:05,West Lindsaymouth,Elliottchester,14.21,11.06,UberPool,1,PayPal
+65e05403-1541-45d2-b418-3ab2284d4bd8,2025-02-10 19:33:29,Carlymouth,Gutierrezfurt,28.77,92.4,UberX,2,PayPal
+f2035a63-b61c-4b22-add6-d0ab8ba9b5b7,2025-02-25 22:57:02,West Frank,North Joshuaside,25.82,36.3,UberX,1,Credit Card
+24c9a6be-6bc8-4e28-87fd-212c14f9f541,2025-02-18 02:37:12,New Saramouth,Lake Mark,26.39,80.8,UberXL,2,Credit Card
+790bb390-2b4b-4e86-a538-e08ba349efec,2025-01-07 10:57:37,Melaniechester,Claytonside,20.23,19.44,UberPool,1,Credit Card
+8cf7a43f-e5ab-4606-b5f1-3b05645c045b,2025-03-07 19:00:35,Ethanville,Dickersonfurt,20.82,69.25,UberComfort,4,Credit Card
+7dd542fb-6172-49df-b73d-eef2d4950415,2025-03-12 07:14:05,Lake Mark,North Laurieton,1.0,7.99,UberPool,3,PayPal
+92e0fe66-5a81-42b0-8f78-356ef9757bf5,2025-02-11 17:36:36,North Ray,West Elizabethburgh,1.25,51.15,UberX,2,PayPal
+6e9f9772-176a-479b-b97a-548e9487a4fa,2025-03-02 00:02:13,South Lauren,Kirkview,17.28,86.18,UberComfort,2,PayPal
+1fbe1bfc-5a03-4314-9437-b6e62b555a75,2025-02-11 23:54:07,Jamietown,East Davidtown,23.22,15.0,UberX,2,PayPal
+fb938074-ed7e-475b-b2e4-0f0ac292d29c,2025-01-31 10:44:22,Lucasborough,New Christiestad,16.38,11.34,UberXL,1,Credit Card
+d1ecfd79-811f-4643-bdcf-4cd5f89c512e,2025-02-25 19:03:26,Hendersonstad,Pedrofurt,7.59,20.61,UberPool,3,Credit Card
+0107883d-5fb8-4698-b1f7-b8614d75dde7,2025-01-20 19:31:41,Richardsonburgh,Lake Diana,1.76,78.11,UberX,4,Cash
+a6bfa2e0-0317-45a3-8685-54056a472382,2025-01-20 04:18:44,New Jeff,Maryfort,11.75,95.12,UberComfort,2,Cash
+338d38b0-2329-42e5-b043-f26e078fe4d5,2025-03-26 13:22:15,North Lauren,Timothyland,9.85,76.81,UberComfort,2,PayPal
+9aece9f6-c586-40ed-8cd4-85e9188171f2,2025-01-18 11:21:00,Thomasport,Port Ashleyborough,23.29,78.3,UberXL,2,PayPal
+48e05122-f00c-4b3c-b426-353eb4312c64,2025-01-19 09:16:42,West Bill,Lake Ashley,25.85,35.36,UberPool,1,Credit Card
+2f6a45b5-16b0-437b-8007-4ccd0898be79,2025-03-18 16:21:43,South Chelsea,North Jodishire,2.26,9.47,UberBlack,3,Cash
+1db8cbce-4b21-4791-869b-80bad50f5ecd,2025-01-24 07:18:01,Port Kristinachester,Lake Cassandraview,29.45,39.72,UberX,4,Cash
+918555aa-b756-48b2-bea9-85b94834f8c0,2025-03-20 19:11:27,Lake Maryport,Lucasfurt,19.25,61.55,UberX,4,Credit Card
+f6cbe58d-2b23-417e-9faa-9c9a288914fa,2025-03-07 02:00:29,South Amandafurt,Lake Joshua,8.51,47.17,UberBlack,1,Credit Card
+d5f51b8f-8eee-4119-97c6-8e7b53787da6,2025-02-08 18:20:05,South Keithville,Greenside,13.93,72.02,UberXL,4,Credit Card
+6fdc8af6-3d0d-4ee4-ab95-f17cef6498d0,2025-03-23 08:40:52,Blackborough,Parksfort,27.74,80.91,UberBlack,1,Cash
+c6b9e70f-3d13-471e-8781-2d27bacd6d79,2025-01-28 09:24:48,Woodtown,New Kyle,26.55,32.78,UberPool,4,Cash
+c3372e4a-6dd7-4f55-b612-7e1c8e12e298,2025-02-27 14:36:27,North Maria,Barnesborough,28.64,19.1,UberXL,3,PayPal
+84e28225-0075-4311-be6b-5879d9bcfb93,2025-02-28 19:47:50,Port Robertfort,East Hectorport,9.79,87.25,UberComfort,4,Cash
+79b1c54a-6763-4b2b-ac97-e53ee73884b6,2025-01-18 00:52:43,Coxstad,New Wesleystad,27.01,49.77,UberPool,3,Cash
+ae4df49f-707a-4749-9113-9a4be25db394,2025-01-03 10:00:41,Port Diana,North Kelsey,24.69,69.3,UberX,2,Cash
+8409b030-2779-4351-9524-cc4d54ad3cd1,2025-02-05 10:26:48,Hamiltonhaven,Port Patricia,27.58,85.87,UberX,3,PayPal
+6527768e-4344-4e2a-90e6-db2e9a2311d2,2025-03-18 19:48:53,East Billy,Hernandezshire,24.11,83.44,UberXL,4,Credit Card
+fbf454a8-0018-47f7-9cc3-04fd40d642e9,2025-02-15 01:17:44,Hoffmanchester,Mooreburgh,8.07,60.15,UberX,4,PayPal
+e095f21e-b355-4dcc-b8cb-04e8d3e37fdb,2025-02-08 23:52:05,North Peter,Annaport,23.64,79.72,UberPool,4,Cash
+184af69b-6194-45b6-9485-dc66c628a965,2025-02-17 00:08:34,Cainton,Port Tylerland,1.68,17.22,UberXL,1,Credit Card
+c4195ce2-cdb1-4150-af5b-5ce5bdc294af,2025-03-03 06:58:29,Garzaburgh,New Sierra,23.2,66.19,UberBlack,1,PayPal
+e89d5629-4d82-450d-81ad-6d958c71c4ce,2025-01-23 06:45:07,Stephanieborough,North Nicholaschester,8.11,88.93,UberX,3,PayPal
+4a3c44ce-d0ae-4e5c-8de0-7af2ce813d84,2025-03-15 22:02:56,Moodyfurt,Millermouth,19.51,10.64,UberXL,2,Cash
+3afc3f8c-52f9-46d8-97fd-b07484e08c0d,2025-01-08 19:38:14,Lake Benjaminfort,Jonesside,25.54,53.7,UberComfort,4,Credit Card
+786b1bf1-e9cb-4d61-a0a0-5013fda45804,2025-03-25 14:34:36,East Carrie,North Kaitlin,15.62,59.15,UberPool,4,Cash
+6984496d-c270-4de6-9432-e0154cd7715b,2025-03-30 19:38:56,Lake Marcus,West David,19.98,44.37,UberComfort,4,Credit Card
+b6988abe-8cf5-423a-bcff-f10ffb28cb9a,2025-01-29 14:05:16,Austinton,Welchstad,26.92,44.67,UberBlack,4,Credit Card
+e3ced5d7-e362-4085-9741-cd4023ae343a,2025-01-10 22:58:14,East Jose,North Peterbury,9.54,78.62,UberXL,4,Credit Card
+03b45910-7dc2-4f4e-93e7-6c7990cf01b9,2025-03-20 23:36:38,Hunterfort,Barrborough,14.47,80.14,UberComfort,4,Cash
+c0636906-647d-4ef6-a91a-2f901e24cc13,2025-01-17 20:04:08,North Samanthaville,Annamouth,6.92,62.63,UberX,1,PayPal
+bf0b9edb-b03c-4b01-824d-e00726aaa424,2025-01-06 13:19:14,North Deniseview,Reedside,8.51,9.08,UberComfort,2,Cash
+50c66c6b-6f8a-48d4-ba93-7fb9e77d4388,2025-02-04 21:38:09,North Adriana,Lake Courtneyfurt,4.87,45.42,UberPool,1,Cash
+fa8c3e5e-0243-415a-b4de-69f142670dcc,2025-04-02 03:28:51,Amyville,West Tammy,28.86,48.3,UberXL,2,Cash
+e5a13e1a-c5b0-4617-82ea-4410e634925a,2025-01-08 14:26:44,New Derrick,Michellemouth,16.41,91.07,UberComfort,3,Cash
+1cad3a1c-46ae-405d-a30c-5729793b609a,2025-03-01 01:06:07,Gregoryport,West Ellenville,25.87,66.86,UberComfort,3,Cash
+d498b393-6eed-462c-9f67-e4c3f0546825,2025-01-05 08:26:24,Jeffreyberg,East Brianfurt,2.06,27.47,UberBlack,2,Credit Card
+5bdf719b-9cea-4c8c-a2dd-114b0abd781f,2025-01-09 23:39:45,Karaland,Jocelynview,17.72,53.68,UberPool,1,Credit Card
+158dd84c-0a7f-4932-8a3d-974590ea1f8f,2025-01-02 23:17:41,Wrightland,Barronberg,19.15,88.8,UberPool,3,Credit Card
+cd4f3339-c525-4b38-9516-bddd23686219,2025-01-02 23:28:00,East Heathershire,East Christine,25.31,11.7,UberX,1,PayPal
+f471d8ef-fb0c-4a0c-b6ae-fb724905112d,2025-01-15 18:31:31,Davidside,Brianmouth,4.7,55.86,UberXL,3,PayPal
+4c58bb29-d887-40f4-96b8-8030a19b2bef,2025-03-12 06:26:19,Jacksonberg,North Kimberly,24.26,25.7,UberX,1,PayPal
+4ec391ec-cb03-42a0-a13a-32f9e7bee017,2025-03-12 14:24:29,New Samantha,Carrillohaven,5.32,44.81,UberXL,4,Credit Card
+c3b548f6-80a2-4f45-af06-75240990db89,2025-02-25 01:37:32,South Allisonland,Lake Calvinfurt,24.06,9.53,UberXL,4,Credit Card
+2fef564d-330b-4964-8787-b7b9db8ac0a8,2025-02-01 08:51:46,West Diane,Hoffmanbury,12.84,27.95,UberXL,2,Cash
+0d062725-3e86-4e84-b196-f8bb6f3f0bf1,2025-02-26 11:31:05,Paulville,Shannonland,19.5,17.65,UberBlack,1,Cash
+e7291f0e-8938-47ec-92dc-1c568ca091d8,2025-04-02 05:18:43,Thomasside,East Deniseshire,1.41,17.79,UberXL,3,Cash
+3a253840-f28f-4357-9295-4e8830397aae,2025-02-22 22:36:33,East Michelle,North Colinfort,8.89,35.83,UberBlack,3,Cash
+ad04e203-49c8-4fda-8caf-43341921011a,2025-02-12 19:03:28,Jonesport,Port Johnhaven,13.98,53.45,UberBlack,3,Cash
+7d8e33c2-9760-4d8a-9a63-678d27597935,2025-02-20 20:00:16,East Patrickview,Harrisonberg,29.4,86.73,UberX,2,PayPal
+51ec6ba3-6949-4ff5-8ac2-a8b7404557e7,2025-01-13 09:36:09,Millerland,Rossmouth,29.54,86.99,UberBlack,4,Credit Card
+a4522847-fb9c-40be-aa72-561608130ae3,2025-03-05 14:35:00,South Jose,Parksport,27.79,68.53,UberXL,3,PayPal
+e64bf36f-bfa6-47ef-a0bc-f9bbe6afc9e5,2025-03-30 10:58:28,Port Abigailfurt,West Denise,24.88,27.33,UberBlack,1,Credit Card
+90b06aa9-1472-4782-91a9-37d58f83a962,2025-02-10 07:50:34,Jacobview,East Clintonland,26.59,25.16,UberXL,2,PayPal
+e758ec2d-06dd-4879-8cb1-4533df7dff4d,2025-01-23 15:35:19,Port Carolyn,Porterbury,22.77,14.92,UberPool,2,Cash
+0e576b3f-da9d-4683-8a4d-bd813bb2ecb7,2025-02-22 19:47:58,Debrashire,Williamsfort,29.64,40.81,UberXL,2,Cash
+aab7e40b-dcae-4fe0-a0b1-1d9a001a3a46,2025-03-09 11:34:21,New Jennifer,Amyborough,11.04,41.91,UberComfort,1,Credit Card
+bf33b1ff-d94d-4955-997c-935a15c27afc,2025-01-02 14:31:27,North Kennethton,Amyville,24.84,44.54,UberX,3,Cash
+e7b24aac-14dc-40b2-bad9-b8a9ca5423a3,2025-03-28 12:06:09,East Brianhaven,North Ashleyport,8.24,82.05,UberComfort,1,PayPal
+6bd3eb58-cb01-4de5-b911-6ff7ffbb4f70,2025-03-10 01:01:12,West Jenny,East Claytonfort,22.84,49.18,UberComfort,1,Credit Card
+3718c208-4539-4a55-9a56-dae736782c1a,2025-03-20 00:29:36,Jillianmouth,West Lisa,24.85,94.73,UberPool,1,PayPal
+cf272876-e7b4-4eb5-8743-7f6e70f6d0ae,2025-01-23 13:08:51,Lake Melaniestad,East Katie,5.75,98.31,UberX,4,PayPal
+8afe3d10-6bb7-4806-82cb-51ca8226e1fd,2025-02-06 01:36:17,East Jennytown,Dayville,15.52,56.98,UberBlack,3,Cash
+01c56643-594c-4081-8a27-298c3f2f0ef7,2025-03-31 19:21:16,West Calebberg,West Cynthiaview,23.11,47.01,UberBlack,2,PayPal
+380a62ae-2b36-4bf0-a6f8-8afbcb17eb83,2025-03-21 19:53:01,Williamshire,North Elizabeth,9.67,86.9,UberX,3,PayPal
+19e66083-6357-4f8c-9e3c-0bfdded8749e,2025-03-14 18:30:13,Michellemouth,Conleymouth,1.96,19.29,UberX,3,PayPal
+829632d9-744c-4f08-902a-086c40d75d5d,2025-02-15 22:49:22,Michellehaven,Arthurfort,27.96,36.88,UberXL,2,PayPal
+471f4ba4-d2a4-45d2-9b7c-609ae0e5f4bc,2025-02-08 23:39:57,Mcintyreport,East Gregoryside,4.29,46.85,UberComfort,4,Credit Card
+67958a59-c8ac-49c3-8cd8-ef814c5a3507,2025-01-26 20:08:07,Lake Tiffany,North Alyssa,18.57,59.78,UberXL,3,Cash
+8d45db5c-8c9f-4c26-8f87-c1278a7add23,2025-03-01 18:16:20,Janetfurt,Garciastad,8.71,82.84,UberX,3,Credit Card
+6fe4fd79-3ec4-4e60-8955-69afb2d2b16f,2025-01-29 19:39:02,New Ernestborough,Williamsmouth,13.89,65.68,UberBlack,4,PayPal
+a46759ae-574a-4f79-9832-6d13f3b16bfb,2025-01-17 16:20:27,Dennisburgh,Lake Nicholasbury,27.17,35.91,UberX,3,PayPal
+5e8fd439-3467-41d5-9042-f80a1afad83e,2025-02-21 01:25:56,North Justin,Christopherville,25.2,61.43,UberPool,2,Cash
+feb6e403-cc78-4661-b335-6a8776479799,2025-02-02 21:25:02,Kathleenton,Port Kenneth,22.17,51.27,UberComfort,1,Cash
+6818759b-1041-4388-9178-2948a41e4542,2025-03-03 11:47:23,West Anthonymouth,Josephview,15.91,54.66,UberBlack,2,Cash
+4921ede3-0012-40e4-94b9-28edea233498,2025-02-08 01:57:50,Sarahfurt,East Dylanfort,6.19,31.85,UberComfort,2,PayPal
+363f8a48-f050-4ab3-a627-efa0fd95b6c2,2025-01-30 23:56:55,Youngmouth,Wrightstad,23.03,66.06,UberPool,3,Credit Card
+c4ed225d-fe9d-4e1b-aa89-a85233b70965,2025-01-02 08:34:21,Harriston,Yeseniamouth,11.25,30.84,UberBlack,2,PayPal
+54fc14cb-203e-40f3-aed7-657ed9d5715c,2025-03-23 18:10:49,Taylorview,Lake Barbara,7.44,72.2,UberX,2,Credit Card
+71ad6ef6-c7b8-478d-817a-c5d5fbb4f46d,2025-03-14 19:47:47,Walkershire,Amandahaven,7.64,49.91,UberComfort,3,Credit Card
+bfe3ce9d-7078-4372-bbba-544127c0e16a,2025-03-08 02:51:22,West Cynthia,Hammondland,6.85,82.15,UberPool,4,Cash
+feeb47eb-147f-4b66-b1ac-dd3f9d4b8b19,2025-02-06 10:44:32,Diazborough,Lake Misty,10.75,77.74,UberComfort,2,Cash
+4d74c8f9-e384-42fc-99c5-ef866082fea1,2025-02-14 03:46:59,Grayville,West Michelechester,26.31,90.75,UberComfort,1,PayPal
+b7fa45d4-7284-4b70-9c1f-eccb620d1ae2,2025-01-11 02:02:37,West Robert,East Michaelfort,17.07,59.4,UberComfort,2,PayPal
+2b98a1bc-67a1-43b3-851e-a32bda8d5dbd,2025-01-23 04:31:01,West Stephaniemouth,East Timbury,19.47,70.92,UberComfort,2,Cash
+97005fe9-5d06-4d06-9be9-b86083c1605a,2025-02-28 10:53:19,Joannafort,New Robertport,25.51,8.75,UberX,2,Credit Card
+59e2c21d-523d-4fe9-becb-51a913f6c97f,2025-02-14 03:18:36,Port Joshuamouth,South Alanport,11.21,41.96,UberXL,4,Credit Card
+22e071e4-f4fe-455d-be5b-461afd538a9e,2025-01-29 16:59:48,Lake Pamelamouth,East Annashire,7.45,79.81,UberXL,2,Credit Card
+5537a0c6-5980-4b2c-9f7a-3b118153f791,2025-03-27 17:25:47,Kristenside,Montgomeryberg,21.51,15.94,UberXL,1,Cash
+6ff9ebf3-3f61-4d71-a1d9-5587852b6adf,2025-03-16 03:40:27,West Chase,North Matthewside,17.97,51.12,UberXL,1,Credit Card
+9a4c5573-d145-4609-b6b5-fdfc17c390fe,2025-04-03 10:50:20,West Jamieland,Port Bethshire,10.03,24.12,UberPool,2,Credit Card
+ad4545c1-6069-430e-9f76-31bc97408df8,2025-03-21 18:06:15,Johnstad,Garciaport,18.8,66.54,UberX,4,Credit Card
+5feb190b-78e1-4efe-a3a7-0a889f9cb00d,2025-01-14 13:36:05,Crosstown,Pattersonmouth,23.13,46.89,UberBlack,1,Cash
+559c6a96-d06c-47a0-802e-6b3401f40921,2025-02-13 02:55:33,Louisview,West Kimberlyshire,18.46,5.55,UberX,1,Credit Card
+9b7df655-68e9-46a0-9126-25a097963d08,2025-03-31 20:57:14,Nealfurt,Tarabury,13.83,89.31,UberPool,4,Credit Card
+628ea020-c265-4243-8e25-9f8ce842c6b7,2025-01-06 16:58:04,Sanchezville,Lake Jenniferburgh,23.39,25.09,UberXL,2,Cash
+bd6d5ca2-177f-4e00-889b-cef3bf0ed63d,2025-02-09 06:44:42,Carpentertown,Allenville,12.75,85.77,UberBlack,4,Credit Card
+20d5fa3e-98d8-4d27-b68f-3a3fcb2cc14c,2025-01-07 22:43:05,Port Brent,East Paigeborough,12.1,23.98,UberComfort,3,Cash
+e84e9e32-1396-46f3-a9d4-4fc31f285c49,2025-03-14 17:13:33,Jonathanburgh,New Jacobborough,20.88,12.48,UberPool,4,Credit Card
+ce166bb3-f9ab-40a7-9c39-dd16a925cf2e,2025-02-28 04:30:10,Martinfurt,West Travis,9.09,51.81,UberX,1,Cash
+6d1080bd-47fc-4c18-9a32-5f6e19be6287,2025-03-19 17:55:32,North Shelbyside,Seanberg,25.64,39.49,UberXL,2,PayPal
+4fd0cf80-bd53-4cbd-a447-7d3404c04fb9,2025-01-25 14:17:40,New Aprilton,Myerstown,6.93,82.43,UberBlack,4,Cash
+8f5eac07-dc3b-4c7c-a23e-1d5e1fc05772,2025-03-12 16:44:39,North Joshua,Millerstad,16.69,96.94,UberComfort,1,PayPal
+d41c7ddd-ea7b-43b0-ad27-208be45bb196,2025-02-26 05:16:32,North Justin,Lake Kyle,9.31,78.68,UberBlack,2,Cash
+49a64edc-96a4-4415-9b09-e8b9d6cc63eb,2025-04-01 18:36:07,Lake Michael,Baileyborough,4.93,48.83,UberX,4,PayPal
+c96b70fe-598a-4197-86d0-bc0d7b943ccc,2025-02-01 12:25:04,Trevortown,Christinaberg,14.21,10.17,UberBlack,2,Cash
+e1680cc5-f81d-409f-a3fd-ff2942458fc8,2025-01-23 04:41:44,Johnsonland,South Joshuamouth,6.63,59.14,UberBlack,4,Credit Card
+d34f1f50-7953-43e4-a867-be2c740c1211,2025-01-23 07:51:15,Rodriguezland,Lake Melindaport,9.2,96.8,UberPool,2,Cash
+e374bd55-04e9-417e-9d9c-0629ba195276,2025-01-24 16:37:56,Bellville,South Brandon,5.34,77.74,UberX,3,Credit Card
+0f7ed577-4107-4a49-9946-1482c4c4c74f,2025-02-26 11:32:40,Penafort,East Brett,14.82,93.01,UberBlack,2,Credit Card
+69e3e5ef-b984-4d19-bc5d-2f48ece2047d,2025-02-22 17:21:38,Joannland,Sullivanchester,2.77,34.47,UberComfort,4,Credit Card
+835ace04-1b2e-45bb-bb67-91a595e43ab3,2025-02-13 18:57:35,New Lawrence,Bakerside,18.97,50.47,UberBlack,4,Credit Card
+50a42413-33db-40fe-8ca3-b5719e6ea298,2025-01-27 23:44:02,West Randy,South Marychester,10.89,55.72,UberPool,2,Credit Card
+6bb6958b-7336-40e1-b92e-248282c42651,2025-03-22 01:19:07,Rachelton,Henryville,15.9,38.24,UberComfort,1,Credit Card
+c5e48cfd-5743-4174-acfd-6e9f6f9fe907,2025-01-21 20:09:17,Hughesland,New Ginachester,27.92,60.69,UberXL,1,PayPal
+1d2da0d6-c59c-4f83-9eda-4a01fb9d2824,2025-02-01 02:41:16,Lake Matthewborough,South Candice,9.24,56.88,UberComfort,1,PayPal
+686edcd5-3b6f-4e30-b4d2-57c66799789b,2025-03-20 19:46:05,Port Cameron,Schroederport,27.58,36.64,UberX,1,Cash
+eb656428-8efd-482f-b1f9-a909aa99422c,2025-03-08 13:54:56,South Sierra,Port Michaelhaven,21.8,7.15,UberX,2,PayPal
+7e84e821-0c1e-4a24-ac02-aa063704ee2e,2025-01-03 09:42:47,West Kimberlyhaven,Zacharymouth,21.43,50.76,UberComfort,3,PayPal
+6094ff32-6f41-4e0d-b201-cabb046c8a11,2025-03-29 21:59:50,West Paulton,Wheelertown,8.7,47.35,UberComfort,1,Credit Card
+54a392f6-3e05-4858-b76b-305c83d139fd,2025-02-20 05:39:35,Janiceborough,East Seanbury,18.73,10.6,UberComfort,2,Cash
+52bd1a0a-52e0-4788-aa5e-c635d22a255d,2025-03-08 14:05:37,Port Colleenberg,Port Sean,17.06,45.08,UberPool,3,PayPal
+48e70436-aef7-4b76-8e33-a850034a8e60,2025-02-16 01:41:47,Dorothymouth,Richardsonchester,16.75,77.17,UberPool,4,Credit Card
+85f53c68-c190-45b8-b93b-c049cd129320,2025-03-07 05:57:17,West Cherylchester,Spearsville,23.24,72.25,UberXL,3,Credit Card
+dc211a37-413a-44f5-a98c-bc2b8a2137fe,2025-03-24 19:17:44,Sonyaport,East Sydney,20.35,15.67,UberComfort,4,Credit Card
+6b6de36f-1afe-4fa3-871f-88233e16324d,2025-03-31 08:31:52,New Carolinefurt,Lake Bradleyview,13.71,36.6,UberBlack,2,Credit Card
+620d0a9a-1135-4cd0-b1b6-4304670d8a23,2025-01-29 05:17:22,West Tiffany,Flemingburgh,16.53,45.66,UberXL,1,Cash
+907e90cf-7bd1-4c2b-8bb4-47c6c49166ab,2025-01-26 02:28:22,Nicholasville,Julieland,19.21,17.13,UberPool,2,Credit Card
+3f4cfe58-32c6-443c-afc0-75b5f3ac94dc,2025-02-16 12:15:19,East Karenburgh,Jonesside,12.4,70.13,UberXL,2,PayPal
+8af97d26-be15-4f6a-a5ab-3312833f86b5,2025-02-03 01:35:56,Port Carrie,Lake Davidfort,15.81,87.73,UberPool,3,Credit Card
+e5df42c3-b30e-4253-829f-656afeae23f1,2025-01-22 03:37:50,Hughesview,South Anthonyburgh,29.68,36.64,UberBlack,1,Credit Card
+b47296e5-0800-49a3-99bf-51c8cb7c0158,2025-02-16 02:31:08,Hodgefurt,Kylechester,11.4,90.55,UberX,1,Cash
+ecf872ca-0f73-46b6-8163-347458e32177,2025-03-07 16:59:40,East Sethmouth,Gordontown,25.99,16.39,UberXL,1,Credit Card
+a9db090e-8005-4b68-b516-80adad1a3218,2025-02-01 06:07:33,East Christopher,Jeanchester,12.71,92.57,UberComfort,3,Credit Card
+c9348e8f-d366-4ef4-9b5f-dbba4963a96d,2025-02-14 00:23:31,West Randy,South Erikchester,26.29,94.65,UberComfort,2,Credit Card
+acdcdd95-9409-41fa-9adb-7d788228f1fd,2025-03-19 08:40:58,Lindseyport,Lake Lanceview,2.94,82.53,UberXL,1,Cash
+6301742b-7e8c-4254-8240-e196f0bdc14a,2025-01-17 23:18:14,West Katelyn,Port Victoria,20.07,15.95,UberBlack,2,PayPal
+a7d5cc06-bfc4-4f4e-8a8b-ffc298375072,2025-02-16 01:01:17,New Jenniferton,Omarport,15.45,67.39,UberBlack,1,PayPal
+68b79d85-5261-4233-9353-6f940326ee02,2025-01-05 06:28:42,Kellyport,North Jonathan,9.77,79.68,UberComfort,4,PayPal
+bef27cd7-5f92-480f-971d-6f8fc57a34da,2025-03-08 18:00:51,Jasonshire,South Katherineside,12.04,5.87,UberXL,2,Credit Card
+dfa941a7-0387-44eb-80a7-08e43549c4bf,2025-03-06 16:29:42,Mooneyview,Marymouth,22.39,29.44,UberXL,2,Credit Card
+2f25a465-a40b-4931-8883-59b65a1a8a12,2025-01-26 06:30:17,Port Robert,West Dominic,15.67,82.62,UberXL,4,Credit Card
+c5acf919-9dcb-4921-a27d-1bda29c06bb7,2025-03-26 02:57:34,Karenhaven,Port Evanville,15.81,11.13,UberComfort,1,PayPal
+d73b088a-a14e-4c87-8c11-c7bdf284a78a,2025-03-09 00:10:12,Wardchester,New Shawnaville,1.31,69.37,UberX,1,Cash
+5192e6cd-2705-43fe-8d4e-92336a16ef54,2025-02-02 10:46:43,East Monica,Richardhaven,15.0,41.63,UberX,3,Credit Card
+d55d1565-311e-46f8-8548-b4dfedd4ac29,2025-03-14 08:51:56,New Melindaville,East Amy,26.17,42.32,UberXL,3,Credit Card
+d8d266c5-d408-4ebe-b746-dd6ad66abd4d,2025-02-07 12:53:32,South Meganchester,East Meganton,26.44,75.22,UberPool,3,Credit Card
+df06e4bf-5ca4-4746-b9ed-9ace68b0a39d,2025-03-07 10:38:28,East Phillipborough,Benjaminberg,19.86,15.54,UberX,2,PayPal
+d4b1fd60-e416-45fc-9fde-8e80ba6ed011,2025-01-27 00:15:21,Dennismouth,New Arthurville,8.87,55.33,UberComfort,4,Cash
+44b2cce8-d6e7-4d00-9800-fd3962439d8d,2025-03-21 12:04:34,West Daniel,New Ericaberg,17.12,62.38,UberX,2,Cash
+1d0cd57a-e28a-4d5d-aaba-7c5d750a17ea,2025-02-13 12:39:44,West Kellyfort,East David,16.24,89.29,UberX,1,PayPal
+58c57ebb-34dd-401b-999d-84f5fcae019a,2025-03-31 15:58:10,Brandonburgh,New Ronaldville,29.39,48.42,UberBlack,4,PayPal
+3b8c774d-b3d1-4214-8558-aaec7ba94ece,2025-01-28 21:28:42,West Monica,East Elizabeth,12.05,84.42,UberX,2,Cash
+f3d1b26f-746c-442b-b274-a5c11c4062f0,2025-01-17 15:13:36,New Bethanyville,South Leslieside,27.79,57.14,UberComfort,1,Cash
+dc643b5e-c08a-4961-bee4-9baa5a0eb14f,2025-02-04 04:46:40,Cochranfort,Lake Ashley,19.81,85.62,UberPool,3,PayPal
+a046d3e2-e2ca-4892-8ea8-0bbec6da9c53,2025-01-13 21:42:25,South Karenton,East Melvin,25.33,77.84,UberComfort,2,Credit Card
+aad4635d-7da5-4b28-ae0a-a0742af0dae3,2025-03-02 21:49:16,Pageburgh,New Ashleytown,24.84,38.77,UberBlack,3,Credit Card
+3cf2feae-91b4-4bf3-a996-5cb120c64f48,2025-02-09 11:36:48,Byrdside,East Taylor,16.58,86.03,UberPool,2,Cash
+0d7b49fc-ebdd-4d23-a894-551bfa99a83c,2025-03-14 14:47:37,Kathleenside,Port Carlamouth,28.53,41.38,UberBlack,2,Credit Card
+d54b6566-d394-489a-b8f6-b1c0ee41682f,2025-01-29 09:38:47,Leeburgh,South Carlos,28.49,42.69,UberXL,2,Cash
+90ff1988-6daf-43f5-80b7-3a1535eb0763,2025-01-20 09:05:45,Geneshire,Lake Rodneyfort,4.65,14.6,UberComfort,3,PayPal
+3af8f8d0-ac47-4c1a-9d81-b8773ca94e37,2025-01-28 10:03:14,South Jamieton,Jamesshire,24.91,63.48,UberComfort,1,Cash
+5ddb3940-46bd-4d5b-b381-10b0ce3013bb,2025-01-07 12:33:02,Port Christianchester,Smithburgh,13.65,49.9,UberBlack,4,PayPal
+fe768be3-8fda-4f4c-9c47-e2fa9fdf29e8,2025-03-14 04:23:52,Hensleyville,Loganview,18.69,52.2,UberBlack,4,PayPal
+31b31820-9652-4a81-812d-85a0308b4ce6,2025-01-18 09:18:55,South Darryl,New Courtney,28.75,68.25,UberX,4,Credit Card
+4f46d46b-b76f-46e3-985e-1782853ac00c,2025-01-01 04:14:26,North James,Sharpborough,16.07,57.69,UberBlack,1,PayPal
+4be4fcd9-c9a0-4c00-aec8-78a9d7057bd7,2025-02-18 04:33:18,Hensleyport,Melissashire,2.86,80.71,UberXL,3,Credit Card
+61582212-4caf-4fac-8f4c-054ffe61752d,2025-02-16 06:47:22,South Brandon,Jameshaven,25.11,73.45,UberPool,4,Cash
+99bfb892-4abd-47b7-86f2-8595dd5d28ae,2025-03-25 16:41:42,South Paul,Port Staceyhaven,6.21,19.92,UberX,3,PayPal
+6be1cbed-2d60-4fac-bd57-a692b1f1845d,2025-02-16 21:23:49,Smithtown,Lake Shane,8.61,68.71,UberPool,3,PayPal
+565c977f-5c8a-491e-a4cc-55ef5283e5a4,2025-01-01 20:07:52,New Shannonhaven,Taylorport,12.2,64.11,UberBlack,2,PayPal
+a2bdd611-77f9-4efc-aa1e-3301a687a2c6,2025-01-16 16:23:30,Gonzalesmouth,East Angela,15.54,30.63,UberPool,2,Cash
+8b448c81-7b4d-4d57-8c7b-997d5ee4bac5,2025-03-01 06:31:39,Port Richardburgh,Dennisshire,21.69,74.35,UberXL,2,Credit Card
+d2574071-4099-4582-8d93-6032aad98f46,2025-02-10 14:51:45,Alecview,Phyllismouth,6.01,37.26,UberXL,2,Cash
+83a8db1d-6e0f-4051-aacd-869b82a68831,2025-03-30 01:32:06,South Katiemouth,Grantberg,14.59,40.5,UberComfort,4,Cash
+83a42b1d-5ba8-48b7-b9b0-3b838a06c723,2025-02-07 21:23:08,Johnburgh,East Robert,18.65,79.54,UberXL,1,Cash
+fdff2e59-4bbe-48b5-8f42-416d42206bd0,2025-03-29 08:13:50,Lake Tinafort,Peckborough,17.39,12.8,UberX,4,PayPal
+665e8f29-5384-4ccd-85c0-5ab74c0ac9dd,2025-03-20 22:58:06,Lake Mary,Lake Andrewfort,22.79,39.31,UberX,3,Cash
+5996c38c-c737-4da6-9937-ba42cde704a4,2025-02-19 21:57:38,Lake Scott,Lake Tonyland,27.22,49.17,UberPool,2,Credit Card
+48c25cc7-8e66-4bbf-9a67-f6a9843603dd,2025-01-28 22:40:32,Tammyton,New Nancy,3.83,70.74,UberXL,4,Credit Card
+7c6d95d2-61df-413b-982a-362cca1abbcd,2025-03-21 01:29:05,West Aliciafurt,Brianberg,27.35,22.35,UberBlack,3,Credit Card
+a033683a-376b-4f99-9d33-a4be019aaef3,2025-03-04 04:19:10,East Angelicahaven,South Stacy,16.88,37.43,UberX,3,Cash
+2cadb663-adbe-4a5d-97b0-b6cdee3579ec,2025-03-01 01:42:19,Brewerstad,Beasleyton,10.74,51.6,UberBlack,3,Credit Card
+b97fa6b1-1465-408c-a41e-78d9057fa52e,2025-03-10 10:19:54,North Rhonda,Lake Mitchell,19.59,61.32,UberXL,4,Cash
+953b7f3c-8d22-480a-b458-d3eeed855b4b,2025-02-19 13:53:43,Lake Ericstad,Jonesport,7.63,17.96,UberX,1,Cash
+2b63adef-ab3e-4fb3-b965-9602ae0e1ccf,2025-02-08 10:14:05,South Jeremiahton,Mathisville,10.28,26.88,UberX,2,Cash
+d7201ed5-ca1f-4410-9e9c-d9b5334c9489,2025-03-14 23:06:16,Debrashire,Amybury,3.98,7.07,UberPool,1,Credit Card
+40127e21-2b79-48ef-8751-95439ab4a62a,2025-01-02 16:41:01,West Meredith,Jeanetteville,21.42,74.43,UberX,2,Cash
+bfd03618-19c7-4525-8f18-6c7e43ec4fdb,2025-03-14 20:02:16,East Charlesfurt,Brendashire,10.8,11.23,UberPool,2,PayPal
+56d0d988-cf9b-472c-a18a-056d62ed1774,2025-03-21 05:59:49,North Cameronfurt,Tammyberg,11.34,48.59,UberPool,2,Cash
+b2591dc9-3347-4090-a726-80940f83acdd,2025-02-12 21:57:35,Lake Timothy,Hortonhaven,20.42,92.37,UberComfort,4,Cash
+c78913c4-ab3d-4556-b173-ae43e1b39274,2025-02-18 21:26:22,West David,Annefort,17.89,79.8,UberXL,4,Credit Card
+7dc5734c-949d-4d9f-9b00-1133c50b2ac8,2025-02-08 08:01:12,West Amy,New Martin,25.16,28.7,UberBlack,2,Credit Card
+f9e5189c-d0e8-472e-bb89-c607808ee592,2025-01-01 04:32:24,Hubershire,Lake Jane,16.07,25.21,UberComfort,3,Cash
+c5e0fa12-de78-453a-8d48-c77b235aa29a,2025-04-02 06:18:21,Markchester,Amandaview,16.58,5.7,UberX,4,PayPal
+0ff9decc-6c47-4145-a2f5-af6e2e46209d,2025-02-18 08:40:20,South Kristinchester,Port Stephanie,6.61,86.74,UberPool,3,Credit Card
+d22c3ce2-ca09-4a99-aa45-8edd20d63551,2025-01-29 10:23:22,Williamland,New Tiffanymouth,5.26,64.12,UberBlack,2,Credit Card
+04438d78-d96d-4c80-b069-3e3a4839e8c5,2025-04-01 01:06:17,North Louisberg,Dominguezmouth,17.56,63.67,UberXL,2,PayPal
+7f8c9edb-2d76-4596-8b02-9ac3336ea29f,2025-01-30 03:21:58,Michaelside,Salazarfurt,14.76,24.14,UberComfort,1,Cash
+0ab1f222-3930-4ef3-bf09-4f67a1d2c04a,2025-02-21 18:55:40,Mariahfurt,South Robyn,22.75,16.07,UberComfort,2,PayPal
+994c561d-4abc-49f9-b0ad-3ee5ed7e38ca,2025-01-08 01:18:44,Marshallbury,North Victoria,6.35,99.46,UberPool,4,Cash
+470736ac-d490-4cbf-b350-027001d703b3,2025-02-26 04:07:32,Atkinsonview,Gonzalezburgh,29.96,29.59,UberX,2,PayPal
+bac1e07e-ce6f-4482-ad75-b6fac204813c,2025-03-28 14:07:17,West Mark,Hannaview,24.91,71.01,UberXL,2,Credit Card
+8a6c4c03-d3e0-4f2d-9dd8-de30e10754ac,2025-03-18 16:40:52,West Brian,North Melissa,20.16,53.83,UberComfort,3,Credit Card
+812dab39-4b69-40cc-a4cd-eac13fe8e3c9,2025-02-24 19:54:04,Lake Jamesport,Melissabury,20.07,31.55,UberPool,1,PayPal
+3b0c55a5-084b-4107-a8f0-e66c7c6a63a7,2025-01-04 02:47:34,Reyestown,Hernandezbury,19.95,27.92,UberComfort,4,Cash
+d47f774d-65f5-4a1c-a28d-36407a0d5430,2025-02-19 00:10:49,West Christianborough,Smithchester,16.06,28.22,UberBlack,3,PayPal
+1f00d0d6-f1f9-4a2e-9472-3b8fd3f6a982,2025-01-17 10:52:34,East Latashamouth,Patrickport,20.13,7.63,UberX,4,Credit Card
+6dbaae8b-b17f-4ceb-8b4a-b73458515c05,2025-02-10 02:39:37,Lake Kyle,Tracychester,17.14,87.88,UberBlack,1,PayPal
+5d2f672b-8c70-49f9-a225-d2a678e9419f,2025-01-02 13:00:14,Port Luisview,Robertsonfurt,7.98,36.42,UberComfort,4,PayPal
+aea41cc1-03be-4d00-b4de-3c2959fecca5,2025-02-19 17:17:57,Kristophermouth,Port Elizabeth,19.43,77.78,UberXL,2,Credit Card
+b9ca5bfe-3e3a-4a55-aecd-a3e227a40ef3,2025-03-11 20:57:48,West Cynthia,Jasonview,3.37,62.12,UberX,1,PayPal
+202553d9-f7d6-48d5-a7c8-203e1a120c82,2025-03-01 09:30:34,Port Charles,Tommybury,1.99,47.31,UberX,2,PayPal
+8836f526-32bb-469f-bb58-bc949f8597d5,2025-01-04 00:40:55,Port Joseph,East Melissaton,10.05,82.49,UberX,2,Cash
+f436e311-79bb-465c-9c54-c640eb8f92f8,2025-03-02 08:28:25,Brianville,South Joshualand,23.17,51.17,UberComfort,3,PayPal
+db4c14ae-8113-4b30-b55e-7451fe68a4bd,2025-01-02 22:29:55,East Kelly,Port Adam,3.59,29.85,UberXL,3,Credit Card
+5f467f41-2484-4f72-9b76-c3effb2bf38e,2025-02-25 14:57:11,Jayhaven,East Kenneth,21.42,61.26,UberPool,3,PayPal
+84075da6-fa14-4664-a661-8eaaa36e4575,2025-03-31 07:42:07,West Robinfurt,West Martha,9.5,87.89,UberBlack,2,Credit Card
+3722e061-1864-4660-857c-37e1cbefac19,2025-01-24 06:06:43,Lloydside,Thomasville,19.89,17.85,UberXL,4,Credit Card
+fe3059f9-6afa-4e58-ab47-51cc1e09df10,2025-01-18 18:54:46,Lake Kristina,Shawnatown,12.25,23.91,UberX,2,PayPal
+4460ed01-2ad0-419c-8263-0cb5bd02da49,2025-03-16 15:25:42,Tuckertown,South Jerry,7.58,71.96,UberX,2,Cash
+8ecb3c44-2da4-40d8-9545-8da83ee275a3,2025-01-10 13:42:29,Anthonybury,Alanstad,15.33,75.83,UberComfort,1,Credit Card
+b36c85cf-8480-42a4-933d-a23a631fc3a8,2025-02-01 03:45:12,Lorifurt,Lake Joy,29.79,25.24,UberXL,2,Cash
+c0d04dc9-72a1-4779-a429-56566c7f5a66,2025-03-26 18:45:31,New Carmenfort,Nicolefort,2.82,40.03,UberPool,3,PayPal
+e4ff1458-da10-4d57-85db-50059e776a9a,2025-03-31 19:19:18,Jonathanside,South Ruthland,26.75,70.4,UberComfort,2,Credit Card
+005eb21b-aaa1-4c5a-a668-4b42dc6f9e98,2025-01-25 06:54:20,Donaldville,Tracybury,1.48,63.59,UberComfort,1,Credit Card
+6181f266-451b-4313-bf89-eaf7fa0c8b70,2025-03-05 11:18:01,East Matthew,Spencermouth,6.73,84.42,UberPool,3,PayPal
+c4ef2055-a10d-4a79-bfcd-fc5ade1a0b15,2025-01-25 15:48:35,Cooperview,South Elizabeth,4.55,31.77,UberPool,2,Cash
+74657561-53a9-4a50-98ce-3f1eccc94839,2025-02-18 04:52:14,West Michaelport,West Brittanyside,14.96,17.85,UberComfort,2,Credit Card
+2e55a907-11dc-4e70-a024-4cf2abb92b28,2025-03-01 17:55:05,Harristown,West Adrian,22.94,93.7,UberXL,1,Cash
+8aa6dc70-30f3-4f1f-a58d-330b74683d47,2025-01-23 02:05:50,Shafferport,West Garrett,16.91,30.75,UberBlack,3,Credit Card
+f81083fc-f5f5-44d6-8221-766365648619,2025-03-08 18:36:37,Riverastad,West Ivanburgh,5.46,66.07,UberBlack,3,PayPal
+51d458a0-a772-400b-834e-a154ce943857,2025-03-06 10:05:10,Bradymouth,Meghanview,18.76,71.49,UberX,1,Credit Card
+86e030b3-9a57-42c9-b67a-0753588574ad,2025-03-11 08:10:50,Katherineborough,Sparksborough,6.28,71.84,UberBlack,3,PayPal
+303f7e92-e71d-4283-922c-6dd94759cdb4,2025-01-12 17:35:53,Fordside,Caldwellmouth,28.37,36.39,UberX,4,Credit Card
+f7079a95-ef75-423a-8014-ead6f2c56ff2,2025-01-20 10:51:29,Port Brittney,Angelahaven,26.45,52.64,UberBlack,3,PayPal
+2cdab1d1-b592-4a61-9849-8882bbd60f1b,2025-03-27 14:42:54,North Richard,Thomasville,25.29,39.61,UberX,4,Credit Card
+7d4bc2c7-be01-4868-8cc9-7c4bbbc9237e,2025-03-17 02:44:26,North Ashley,South Ryanview,21.15,83.4,UberX,3,Cash
+a8bc0477-c815-43a8-9fa6-3de48f862128,2025-01-24 20:16:22,Mistybury,New Christopherland,25.37,37.57,UberComfort,3,Credit Card
+ebf9bbc9-7b8a-4f3f-bfe8-996036343a4a,2025-02-22 21:31:42,Pamelaville,Colemanfort,15.72,66.45,UberComfort,1,PayPal
+3f0de73c-b642-411a-afc3-d788ae382266,2025-03-26 12:14:15,Foxport,Jenniferland,26.29,82.17,UberX,3,Cash
+ada8cf2e-06b9-4e88-ad7a-8cffcd65c325,2025-02-07 06:35:40,Port Jeffrey,Geraldland,18.26,78.48,UberXL,3,Credit Card
+2a3538b2-cb33-4689-86cc-35b5d259d249,2025-02-21 05:20:58,Georgeside,Ramirezfort,21.35,13.02,UberX,3,Cash
+da13d9e8-e247-4a22-b6ba-8f88a78ddf7e,2025-03-18 21:11:32,Port Lindsayville,Lauraborough,10.92,91.67,UberBlack,1,PayPal
+9a514c77-1449-4132-9d2d-a795ae0f98b3,2025-03-10 11:35:05,Loriburgh,New Christina,12.68,60.06,UberX,2,PayPal
+a072799d-8105-40eb-a1f0-bf7500c2a530,2025-02-22 06:23:30,East April,West Scottmouth,19.44,92.77,UberPool,3,Cash
+9a09d5ab-ecde-46fb-9d9a-6bc9336310f6,2025-01-31 15:04:51,South Kelly,New Martin,24.91,17.64,UberXL,3,PayPal
+2ab24688-c44a-464c-ac44-7fda750d976e,2025-03-20 19:00:20,Sandovaltown,Brianburgh,29.72,48.04,UberComfort,1,PayPal
+7ef65599-27da-40e8-931c-aabd7bafe8cd,2025-01-08 14:26:08,Reneefort,Amandamouth,28.73,6.53,UberX,1,PayPal
+e8713fd2-0da2-49a4-be60-47744ed05418,2025-02-04 14:07:54,Perkinsland,Martinbury,13.64,33.93,UberX,2,PayPal
+caa0ef77-641b-4726-8065-3c8909b2b23d,2025-03-13 08:04:19,Garrisonstad,Rossmouth,28.92,36.57,UberBlack,3,Credit Card
+d0061e72-52fa-461c-b116-9b0cee6108f3,2025-02-14 18:26:35,East Adam,Johnsonberg,5.97,90.33,UberComfort,4,PayPal
+2c190e61-dfec-4a3c-902f-46707bb0975c,2025-01-07 04:25:05,Lake Julie,Hernandezton,13.25,37.47,UberPool,1,Credit Card
+18484491-882e-43a7-8bc4-d66b17288201,2025-02-08 05:17:30,East Charles,North Monique,18.17,20.23,UberPool,1,Cash
+ae02dbfe-2ddc-4d4f-855b-b706dde66a02,2025-03-07 16:00:42,Lake Darren,South Melissafurt,18.08,73.7,UberXL,1,Credit Card
+133a33cd-34cf-48d9-bfbf-ba4b0bbf8ea9,2025-03-28 06:29:30,Jonesside,Lake Alexshire,24.32,95.7,UberXL,4,Credit Card
+7b243a58-fca8-4b51-a295-57295bfa122a,2025-03-23 00:35:58,Stacyville,South William,21.51,83.62,UberComfort,1,PayPal
+985f2d10-759b-4e12-9512-42efaf078a5d,2025-03-18 23:41:07,Gravestown,Tuckerberg,8.45,22.78,UberXL,4,PayPal
+c924b2fd-16a9-4466-b9cc-e398b7eb75f6,2025-01-23 19:48:24,Lake Brett,Lake Kathrynhaven,17.82,39.08,UberPool,4,PayPal
+7aea9832-9da1-494b-8fb1-d9e2cf147b03,2025-01-30 22:36:44,Michaelhaven,Gregoryview,15.16,28.74,UberPool,3,Cash
+36a50d87-d297-4c6e-9030-2f4ece3a1135,2025-01-08 22:49:18,Deanville,Laurenview,29.21,74.18,UberPool,1,PayPal
+dae924a2-f139-4f6e-9301-406c09abf304,2025-03-22 08:44:58,Port Melissaborough,West Rebecca,16.64,80.23,UberPool,3,Cash
+5edacb45-be42-4e30-b943-ee09e843502b,2025-02-09 13:07:20,North Mary,Kennedychester,22.38,39.64,UberX,2,PayPal
+cfdc2cf0-d732-429f-9e6d-7b6b8703f079,2025-03-24 13:05:13,East Deborahburgh,East Ryan,22.91,46.05,UberX,4,Cash
+86d1d853-0eaa-4678-870b-f3f930fd438b,2025-04-01 21:43:34,Port Scott,New Kerrytown,4.81,57.12,UberXL,1,Cash
+479cf5e9-f88d-4892-bcd9-87cf3c9a6220,2025-01-31 15:37:11,West Steven,New Michaelview,24.04,99.87,UberXL,1,Cash
+46e9614c-d001-4e6b-aea6-c4f0205657d5,2025-02-07 15:01:17,Port Janet,West Sara,28.86,52.16,UberBlack,2,PayPal
+9b630383-8458-40de-a985-7a36b4caa692,2025-01-19 23:15:41,South Sherriburgh,Owenshaven,1.04,87.01,UberBlack,1,Cash
+14403466-dbdc-47e6-a965-89863dbfa51b,2025-01-22 13:40:19,Andrewview,East Stephen,2.05,6.45,UberXL,2,Credit Card
+1155a058-8182-40ca-a549-de2d926aed3b,2025-02-03 04:49:34,Port Collin,Jasminefurt,15.46,51.84,UberXL,2,PayPal
+cb290170-7a40-4330-839b-718594065d93,2025-02-14 05:18:42,West Madisonmouth,Lozanomouth,6.18,54.99,UberBlack,1,Cash
+4036939d-82ad-4839-9756-939506cea3fd,2025-01-13 22:50:00,New Ronaldfort,Port Kristitown,17.12,71.59,UberXL,1,Cash
+60054180-35ba-4df4-aed3-8d3c244eaca5,2025-02-25 10:17:02,Lake Cheryl,Jenniferfurt,13.26,83.02,UberBlack,3,Credit Card
+9abd6336-70ca-479a-a763-130a93ff76b6,2025-02-06 05:44:25,North Joshua,New Linda,17.6,91.85,UberX,4,Credit Card
+babbb549-2eda-4998-8af9-2e0e72819291,2025-02-03 04:28:01,West Kathleen,Port Andrea,5.62,22.34,UberXL,4,PayPal
+176ce4c4-869a-4f0d-b25e-fe093f8703cb,2025-01-24 10:09:46,North Benjamin,East John,16.41,58.15,UberXL,3,PayPal
+2afaa29c-d123-411b-9be4-e5b30d965a72,2025-02-15 23:45:06,Hensleyton,Staceyton,20.31,12.92,UberComfort,4,Credit Card
+0606c50a-078a-46a0-9723-1e3193198b73,2025-01-11 11:02:27,Deborahmouth,Port Pamela,22.94,42.2,UberX,1,Cash
+433f8292-3c61-4a29-9890-1879c6cb01a5,2025-03-18 01:46:49,Charlesstad,Alisonport,12.46,33.45,UberX,2,Credit Card
+8322b68a-7b1e-4950-b3fa-55dd7a4b56a4,2025-01-20 06:13:35,Port Juliemouth,Kimberlyshire,4.58,72.39,UberComfort,4,Credit Card
+72c63f52-8697-4707-8dd0-763874cf294b,2025-02-16 19:52:42,New Susan,Bensonview,27.62,69.87,UberXL,2,Cash
+ae6ee6a1-57d9-4c02-a4c8-5b6ffecfc332,2025-03-08 20:27:46,Medinaborough,West Ruth,24.2,93.0,UberX,3,PayPal
+bb357139-49d3-487d-85a3-abdd63310de0,2025-03-05 19:26:28,South Kathleenmouth,Bryceborough,14.14,14.63,UberBlack,4,Cash
+edbb7e26-6a22-4ee6-9d11-d4f7988c542a,2025-01-04 12:12:05,West Daniellemouth,New Brian,27.3,58.2,UberXL,4,Cash
+4bbaa658-998e-4a41-add5-dc4977b12d6e,2025-02-12 13:49:18,Adamtown,Jameschester,27.04,34.19,UberPool,1,Credit Card
+a5b7e74f-bda8-4997-8cf2-4c31740a705a,2025-03-14 23:14:54,Lake Calebfurt,Osbornehaven,6.98,79.22,UberXL,4,Credit Card
+86288c9d-9e82-40a1-80d5-d97a29daa52b,2025-02-11 14:24:58,Brownton,West Jonathan,21.17,80.08,UberBlack,2,Credit Card
+fec44a96-7611-42e1-b70e-7eb80aabead1,2025-03-25 23:45:37,Lauriehaven,Haleyville,15.72,88.3,UberXL,4,Cash
+0c498486-cbd4-43be-b933-e09b2d8e2bd7,2025-02-12 19:57:17,Lake David,West Bradleyhaven,21.76,53.94,UberPool,2,Credit Card
+bd1c2858-0c22-4728-927a-78bdc8578566,2025-03-18 16:42:23,Taylorchester,Sheppardbury,22.92,45.73,UberComfort,1,Credit Card
+84bf3d7f-7428-42e0-82f8-fdfd62e960c8,2025-03-24 23:19:00,Stanleyview,West Jade,14.08,30.35,UberComfort,3,Credit Card
+b8b8fa9f-b919-4f0a-9682-cdd1113d7433,2025-01-03 15:25:24,Jasonbury,New Danielle,29.98,73.54,UberX,3,Credit Card
+9b9f54bf-3a62-4230-8adb-ed2397da2b6f,2025-02-18 16:20:47,Juliefurt,Lucasfort,5.21,21.21,UberBlack,3,Cash
+85179e25-f4fb-4ca9-9a8a-0171dc29fa63,2025-01-31 20:55:46,Butlershire,Taylorstad,28.93,8.91,UberPool,2,Cash
+4b8273eb-c51f-424f-a0c6-8905ecf281e5,2025-03-15 22:42:58,South Samanthahaven,New Jesseberg,3.38,77.97,UberXL,1,Credit Card
+9083ae51-da05-49ac-b191-5fb531ad560b,2025-03-18 03:20:28,Shannonland,North Chase,8.56,9.03,UberXL,2,PayPal
+d4aa5788-abb3-44f4-b8a9-75723a8fe056,2025-02-02 16:52:14,Garciachester,North Keithville,8.48,57.02,UberComfort,2,Cash
+976b61cc-938c-42ca-940c-0019c66515aa,2025-01-11 14:32:55,West Andreachester,New John,2.9,26.49,UberComfort,1,Cash
+4e69d010-2b97-4351-a515-08c3a35d6f94,2025-03-22 11:00:14,North Joshuaport,Smithfurt,3.87,33.62,UberComfort,3,Credit Card
+731ac4f3-9abc-4e7b-9629-c6a5c1d8ea6c,2025-03-30 07:06:49,Zimmermanview,North Robertview,27.24,29.04,UberBlack,3,Credit Card
+1a5f7e40-7b4a-40aa-b4b2-874057224a17,2025-03-31 15:32:23,Tatestad,Tylershire,27.46,34.45,UberX,3,Credit Card
+e230cc27-152c-4678-afbe-0a196a175c94,2025-02-21 12:30:50,South Kristamouth,East Kari,20.52,45.01,UberBlack,2,Credit Card
+c6a2e857-a830-4afc-8f26-93bd9a18305b,2025-02-02 15:20:46,North Beth,New Lauraville,8.07,69.04,UberPool,1,Credit Card
+4f671378-4b7f-45c9-b442-446290f642c1,2025-03-22 00:16:26,Lake Donna,Port Miguel,28.33,59.21,UberComfort,2,PayPal
+793b4fa6-2246-44da-8540-d97befcb830b,2025-03-26 13:26:02,North Juliemouth,Chapmanshire,27.08,20.87,UberPool,4,Cash
+e4ef53c3-b324-490f-9b1f-1fc54332a76a,2025-01-08 09:56:42,Lake Veronicafort,Blakestad,28.72,79.12,UberX,4,Credit Card
+d1d44275-484c-47c8-9b1a-a33585c94627,2025-01-21 13:20:08,Johnport,Carlstad,29.41,77.05,UberXL,2,Cash
+c5a4a310-4537-4d1e-9d6e-1eed636834ca,2025-02-15 03:21:00,Robinsonfurt,South Stephaniebury,10.79,11.59,UberXL,2,PayPal
+c3b8f3ae-e2ab-478e-b497-5dbe897b4103,2025-03-01 13:55:12,Richardstad,South Steven,27.02,59.48,UberX,3,Cash
+f2294cee-57b7-4307-81cc-bd2cb2325f59,2025-01-04 21:42:13,Rosstown,New Andrewborough,17.36,59.58,UberBlack,1,PayPal
+df08650b-d0be-4406-83b9-a52341caaa21,2025-01-21 06:12:20,Michaelburgh,Boothton,11.47,71.52,UberX,3,Cash
+57a2c441-0cf7-427a-b68e-56c2b19f5e74,2025-03-28 09:37:41,North Danielle,Stevenview,6.27,19.97,UberComfort,1,Cash
+231553ed-43ed-4e45-af8a-3121d365b906,2025-03-09 21:20:06,East Jayburgh,Alanton,8.86,11.97,UberBlack,1,PayPal
+7f8884fa-d999-4ebe-8f0d-75f7816c84f4,2025-01-29 04:14:18,Samuelborough,North Melanietown,13.4,41.65,UberX,3,Cash
+09296b10-f19f-4ff8-a168-9dc4a290c059,2025-03-05 12:59:40,Terryshire,Velazquezland,3.08,33.15,UberXL,1,Cash
+bfe81339-1983-4687-a224-e2ba4630ced9,2025-03-09 09:35:58,Clarkside,Smithborough,19.6,5.24,UberXL,2,Credit Card
+dffc05c3-9e7a-420d-a4b1-2ec018fb9065,2025-02-11 18:15:09,Thomasmouth,Dustinshire,19.67,21.66,UberComfort,1,Cash
+dc792ee2-5237-435d-b644-1e1f778f8cea,2025-03-09 18:22:56,Lake Dennis,South Jamesbury,2.57,22.29,UberBlack,4,Credit Card
+0ce41e84-2fc3-4373-8858-aa4c53503719,2025-01-19 02:27:45,Wangville,Tammyshire,18.61,54.73,UberBlack,1,PayPal
+6b708f4e-c99b-4c63-93fe-22cb512fa36e,2025-01-04 23:07:39,Josephstad,Buchananview,26.6,9.68,UberComfort,2,PayPal
+84904eb1-1c84-4300-9f1b-2f1648b3dce9,2025-02-25 14:46:21,Romeroberg,Thomasville,29.35,45.98,UberBlack,2,Cash
+7bd80432-55b6-43d7-bcab-5b64521e4e7f,2025-02-19 17:47:31,New Crystalview,Longburgh,14.31,90.95,UberX,2,Cash
+4a51e54e-285c-4109-b2f8-68724cf1f688,2025-03-25 11:32:04,New Scott,Stewartstad,25.45,71.65,UberBlack,4,Cash
+334a54ce-a74e-4507-9c2a-a7ab613dd158,2025-01-19 22:15:01,North Jamieberg,North Brenda,4.39,65.12,UberXL,3,Credit Card
+80e2a355-f0a4-4e05-8f22-0c8cd74427d2,2025-01-08 21:36:37,Avilahaven,East Robertofurt,21.69,23.16,UberX,1,PayPal
